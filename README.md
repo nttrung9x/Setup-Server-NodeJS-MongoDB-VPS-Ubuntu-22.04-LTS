@@ -1,5 +1,3 @@
-# Setup-Server-NodeJS-MongoDB-VPS-Ubuntu-22.04-LTS
-
 # ===========================
 # VPS Setup Script for Ubuntu 22.04 LTS (Updated: 2025-06-06)
 # - Node.js app with Express + Cluster

@@ -1,9 +1,10 @@
 #!/bin/bash
 
 read -p "Nhập domain chính (ví dụ: trungfox.com): " DOMAIN
+read -p "Nhập user email (ví dụ: no-reply): " MAIL_USER
 
 # === TẠO USER MAIL no-reply ===
-MAIL_USER="no-reply"
+# MAIL_USER="no-reply"
 MAIL_PASS=$(openssl rand -base64 12)
 sudo useradd $MAIL_USER
 echo "$MAIL_USER:$MAIL_PASS" | sudo chpasswd

@@ -6,8 +6,16 @@
 # - Postfix + OpenDKIM for sending email
 # ===========================
 
+# install setup full
 ```bash
 curl -O https://raw.githubusercontent.com/nttrung9x/Setup-Server-NodeJS-MongoDB-VPS-Ubuntu-22.04-LTS/refs/heads/main/setup-vps.sh
 chmod +x setup-vps.sh
 sudo bash setup-vps.sh
+```
+
+# create new user email server
+```bash
+curl -O https://raw.githubusercontent.com/nttrung9x/Setup-Server-NodeJS-MongoDB-VPS-Ubuntu-22.04-LTS/refs/heads/main/create-mail-user.sh
+chmod +x create-mail-user.sh
+sudo bash create-mail-user.sh
 ```

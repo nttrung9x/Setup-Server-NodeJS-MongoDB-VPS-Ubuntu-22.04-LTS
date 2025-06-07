@@ -1,9 +1,9 @@
-#==================================="
-#🚀 VPS SETUP SCRIPT - Phiên bản 2.1 (Enhanced)"
-#🗓️ Ngày cập nhật: 2025-06-06 12:00:00"
-#👤 Tác giả: nttrung9x - FB/hkvn9x - 0372.972.971"
-#✨ Tính năng mới: Cleanup & Retry khi lỗi"
-#==================================="
+# ===================================
+# 🚀 VPS SETUP SCRIPT - Phiên bản 2.1 (Enhanced)
+# 🗓️ Ngày cập nhật: 2025-06-06 12:00:00
+# 👤 Tác giả: nttrung9x - FB/hkvn9x - 0372.972.971
+# ✨ Tính năng mới: Cleanup & Retry khi lỗi
+# ===================================
 
 # Download 
 ```bash

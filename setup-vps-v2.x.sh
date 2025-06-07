@@ -15,7 +15,7 @@ set -e
 echo "======================================================="
 echo "🚀 VPS SETUP SCRIPT - Phiên bản 2.1 (Enhanced)"
 echo "🗓️ Ngày cập nhật: 2025-06-06 12:00:00"
-echo "👤 Người thực hiện: nttrung9x"
+echo "👤 Tác giả: nttrung9x - FB/hkvn9x - 0372.972.971"
 echo "✨ Tính năng mới: Cleanup & Retry khi lỗi"
 echo "======================================================="
 
